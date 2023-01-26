@@ -1,6 +1,6 @@
 ---
 name: DX Issue
-about: Describe this issue template's purpose here.
+about: Everything from the developer experience side of things
 title: "[DX] "
 labels: enhancement
 assignees: lino-levan
